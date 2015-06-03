@@ -2,7 +2,7 @@ package com.twu.biblioteca;
 
 public class BibliotecaApp {
 
-    public String display_message(){
+    public String greetUser(){
         return "Welcome to BibliotecaApp";
     }
 }
